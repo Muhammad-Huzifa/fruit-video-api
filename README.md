@@ -1,6 +1,6 @@
 # FruitVideo AI
 
-[![CI](https://github.com/Muhammad-Huzifa/FruitVideo_AI/actions/workflows/ci.yml/badge.svg)](https://github.com/Muhammad-Huzifa/FruitVideo_AI/actions/workflows/ci.yml)
+[![CI](https://github.com/Muhammad-Huzifa/fruit-video-api/actions/workflows/ci.yml/badge.svg)](https://github.com/Muhammad-Huzifa/fruit-video-api/actions/workflows/ci.yml)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-API-009688.svg)](https://fastapi.tiangolo.com/)
 
@@ -45,8 +45,8 @@ FruitVideo_AI/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Muhammad-Huzifa/FruitVideo_AI.git
-cd FruitVideo_AI
+git clone https://github.com/Muhammad-Huzifa/fruit-video-api.git
+cd fruit-video-api
 ```
 
 ### 2. Create and activate a virtual environment
